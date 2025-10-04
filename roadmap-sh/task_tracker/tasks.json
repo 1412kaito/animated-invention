@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2025-10-04T10:00:00Z",
+    "updatedAt": "2025-10-04T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "description": "Finish project documentation",
+    "status": "in-progress",
+    "createdAt": "2025-10-03T14:30:00Z",
+    "updatedAt": "2025-10-04T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "description": "Review pull requests",
+    "status": "done",
+    "createdAt": "2025-10-02T16:45:00Z",
+    "updatedAt": "2025-10-03T11:20:00Z"
+  }
+]
